@@ -29,7 +29,7 @@ public class homeappliancesstore{
 
 
 
-    public static void main(String[]args){
+    public static void main(String[] args){
 
         try{
             //companyname=args[0]
